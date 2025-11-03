@@ -1,0 +1,13 @@
+{
+  "name": "docx-cleaner",
+  "version": "1.0.0",
+  "description": "Утилита для очистки структур полей в DOCX шаблонах",
+  "main": "replacer.js",
+  "scripts": {
+    "start": "node replacer.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "jsdom": "^22.1.0"
+  }
+}
